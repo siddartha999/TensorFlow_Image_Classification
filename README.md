@@ -43,7 +43,7 @@ Here:
  
  <img width="314" alt="vegito3" src="https://user-images.githubusercontent.com/37662337/40265610-0992c258-5b59-11e8-83a4-d21532867cff.png">
 
-That's pretty cool, Vegito is more closer to Vegeta than Goku as classified by the classifier :D 
+That's pretty cool, Vegito is closer to Vegeta than Goku as classified by the classifier :D 
 
 ## Training the Data
 
@@ -59,9 +59,9 @@ That's pretty cool, Vegito is more closer to Vegeta than Goku as classified by t
 
 5) I have used the following resources to understand the concept behind the scenes:
  
- https://www.youtube.com/watch?v=QfNvhPx5Px8
+        https://www.youtube.com/watch?v=QfNvhPx5Px8
  
- https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0
+        https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/? utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0
  
      
 
