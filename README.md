@@ -20,6 +20,8 @@ Classifying the image:
 
 3) We are gonna classify this image now:
 
+
+
   
 
 
