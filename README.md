@@ -39,7 +39,7 @@ Here:
      
      --image=tf_files/dbz/vegito3.jpg is the input image 
      
- and the obtained output is:
+ ###### The obtained output is:
  
  <img width="314" alt="vegito3" src="https://user-images.githubusercontent.com/37662337/40265610-0992c258-5b59-11e8-83a4-d21532867cff.png">
 
@@ -55,7 +55,7 @@ That's pretty cool, Vegito is closer to Vegeta than Goku as classified by the cl
 
        python -m scripts.retrain   --bottleneck_dir=tf_files/bottlenecks   --how_many_training_steps=1000   -- model_dir=tf_files/models/   --summaries_dir=tf_files/training_summaries/"${ARCHITECTURE}"   --output_graph=tf_files/retrained_graph.pb   --output_labels=tf_files/retrained_labels.txt   --architecture="${ARCHITECTURE}"   --image_dir=tf_files/dbz
 
-4) It took me about 5 minutes to train the model.
+4) It took me around 5 minutes to train the model.
 
 5) I have used the following resources to understand the concept behind the scenes:
  
