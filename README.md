@@ -10,7 +10,7 @@ Prerequisites:
 
 1) Tensor flow library can be insatlled on your machine from the souce: https://www.tensorflow.org/install/
 
-2) Follow my Goolge drive link to download the required files: 
+2) Follow my Goolge drive link to download the required files:     https://drive.google.com/drive/folders/14aA1C6LsuoegiEZ4xhRjHJU10A1Xx9TZ?usp=sharing
 
 Classifying the image:
 
@@ -19,7 +19,8 @@ Classifying the image:
 2) Open the terminal in that folder.
 
 3) We are gonna classify this image now:
+
   
-  
+
 
 
