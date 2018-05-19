@@ -45,6 +45,8 @@ Here:
 
 That's pretty cool, Vegito is closer to Vegeta than Goku as classified by the classifier :D 
 
+So that's the basic image classification by using the Tensorflow library.
+
 ## Training the Data
 
 1) In the 'tf_files' folder I have extracted multiple images of Goku, Vegeta, Trunks into their respective folders.
