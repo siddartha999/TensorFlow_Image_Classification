@@ -1,5 +1,5 @@
 # TensorFlow_Image_Classification
-Image classification using tensor flow library.
+Image classification by making use of TensorFlow library.
 
 Image CLassification can be done by making use of a Pre-trained CNN model called Inception , which was trained by Goolge on around 100k images.
 
@@ -30,9 +30,11 @@ A gentle reminder that we have trained the classifier on Goku , Vegeta and Trunk
 
 We have to type in the following command on the terminal:
 
-### python -m scripts.label_image   --graph=tf_files/retrained_graph.pb    --image=tf_files/dbz/vegito3.jpg
+    
+    python -m scripts.label_image   --graph=tf_files/retrained_graph.pb    --image=tf_files/dbz/vegito3.jpg
 
 Here:
+     
      --graph=tf_files/retrained_graph.pb is the code to predict the label of the input image.
      
      --image=tf_files/dbz/vegito3.jpg is the input image 
@@ -51,9 +53,9 @@ That's pretty cool, Vegito is more closer to Vegeta than Goku as classified by t
 
 3) Now, type the following command in the terminal:
 
-### python -m scripts.retrain   --bottleneck_dir=tf_files/bottlenecks   --how_many_training_steps=1000   -- model_dir=tf_files/models/   --summaries_dir=tf_files/training_summaries/"${ARCHITECTURE}"   --output_graph=tf_files/retrained_graph.pb   --output_labels=tf_files/retrained_labels.txt   --architecture="${ARCHITECTURE}"   --image_dir=tf_files/dbz
+       python -m scripts.retrain   --bottleneck_dir=tf_files/bottlenecks   --how_many_training_steps=1000   -- model_dir=tf_files/models/   --summaries_dir=tf_files/training_summaries/"${ARCHITECTURE}"   --output_graph=tf_files/retrained_graph.pb   --output_labels=tf_files/retrained_labels.txt   --architecture="${ARCHITECTURE}"   --image_dir=tf_files/dbz
 
-4) It took me about 5 mins to train the model.
+4) It took me about 5 minutes to train the model.
 
 5) I have used the following resources to understand the concept behind the scenes:
  
