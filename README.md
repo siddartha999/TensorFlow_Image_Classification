@@ -39,7 +39,7 @@ Here:
      
      --image=tf_files/dbz/vegito3.jpg is the input image 
      
- ##### The obtained output is:
+ #### The obtained output is:
  
  <img width="314" alt="vegito3" src="https://user-images.githubusercontent.com/37662337/40265610-0992c258-5b59-11e8-83a4-d21532867cff.png">
 
