@@ -22,4 +22,9 @@ Classifying the image:
 
 ![vegito3](https://user-images.githubusercontent.com/37662337/40265513-50699d3e-5b57-11e8-92b9-872a6980b631.jpg)
 
+As one of these 3:
+
+![gvt1](https://user-images.githubusercontent.com/37662337/40265531-ae332cc8-5b57-11e8-9d08-f999c504e171.png)
+
+
 
