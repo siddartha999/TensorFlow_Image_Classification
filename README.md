@@ -20,9 +20,6 @@ Classifying the image:
 
 3) We are gonna classify this image now:
 
-
-
-  
-
+![vegito3](https://user-images.githubusercontent.com/37662337/40265513-50699d3e-5b57-11e8-92b9-872a6980b631.jpg)
 
 
